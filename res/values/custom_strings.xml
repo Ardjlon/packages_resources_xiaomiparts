@@ -291,4 +291,13 @@
     <string name="deep_saturated">Deep and Saturated</string>
     <string name="black_af">Deep Saturated Black</string>
 
+    <!-- Refresh rate  -->
+    <string name="refresh_title">App Refresh Rate</string>
+    <string name="refresh_summary">Adjust per-app maximum refresh rate</string>
+    <string name="refresh_default">System</string>
+    <string name="refresh_low">Low</string>
+    <string name="refresh_standard">Standard</string>
+    <string name="refresh_high">High</string>
+    <string name="refresh_extreme">Smooth</string>    
+
 </resources>

@@ -206,7 +206,8 @@
     <string name="thermal_camera">Camera</string>
     <string name="thermal_dialer">Dialer</string>
     <string name="thermal_gaming">Games</string>
-    <string name="thermal_streaming">Streaming applications</string>
+    <string name="thermal_streaming">Streaming</string>
+    <string name="thermal_performance">Performance</string>
 
     <!-- Raise to wake strings-->
     <string name="raise_to_wake_gesture_title">Raise to wake</string>

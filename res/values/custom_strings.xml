@@ -107,6 +107,9 @@
     <string name="device_gestures_summary">Manage device gestures</string>
 
     <!-- Ambient display gestures -->
+    <string name="ambient_enable">Use ambient display</string>
+    <string name="doze_brightness_title">Always on brightness</string>
+    <string name="doze_brightness_summary">%s mode is enabled</string>
     <string name="ambient_display_manage_summary">Manage ambient display gestures</string>
 
     <!-- Fingerprint gestures -->

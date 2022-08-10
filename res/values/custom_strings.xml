@@ -350,4 +350,8 @@
     <string name="cold_as_ice">Extreme Cold</string>
     <string name="deep_saturated">Deep and Saturated</string>
     <string name="black_af">Deep Saturated Black</string>
+
+    <!-- UiBench -->
+    <string name="jitter_test_title">Jitter Test</string>
+    <string name="jitter_test_summary">Calculate rendering jitter</string>    
 </resources>

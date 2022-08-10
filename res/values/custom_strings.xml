@@ -311,6 +311,10 @@
     <string name="refresh_low">Low</string>
     <string name="refresh_standard">Standard</string>
     <string name="refresh_high">High</string>
-    <string name="refresh_extreme">Smooth</string>    
+    <string name="refresh_extreme">Smooth</string>
+
+    <!-- UiBench -->
+    <string name="jitter_test_title">Jitter Test</string>
+    <string name="jitter_test_summary">Calculate rendering jitter</string>    
 
 </resources>

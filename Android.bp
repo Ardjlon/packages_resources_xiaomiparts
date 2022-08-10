@@ -15,7 +15,7 @@
 //
 
 android_library {
-    name: "org.pixelexperience.settings.resources_custom",
+    name: "parts.settings.resources",
 
     resource_dirs: ["res"],
 

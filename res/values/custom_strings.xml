@@ -354,4 +354,13 @@
     <!-- UiBench -->
     <string name="jitter_test_title">Jitter Test</string>
     <string name="jitter_test_summary">Calculate rendering jitter</string>    
+
+    <!-- Flashlight Brightness Settings -->
+    <string name="flashlight_title">Flashlight brightness</string>
+    <string name="flashlight_warning">Setting-up flashlight brightness too high may cause permanent hardware damage, use at your own risk</string>
+    <string name="flashlight_summary">Customize flashlight brgitness value</string>
+    <string name="flashlight_brightness_title">Brightness</string>
+    <string name="flashlight_brightness_summary">The amount of brightness for flashlight</string>
+    <string name="flashlight_brightness_summary_incompatible">Kernel did not support this feature</string>
+
 </resources>

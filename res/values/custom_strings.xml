@@ -16,6 +16,8 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dirac_qs_tile_title">Dirac sound</string>
+
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti flicker</string>
@@ -388,6 +390,7 @@
     <string name="refresh_summary">Adjust per-app maximum refresh rate</string>
     <string name="refresh_default">System</string>
     <string name="refresh_low">Low</string>
+    <string name="refresh_moderate">Moderate</string>
     <string name="refresh_standard">Standard</string>
     <string name="refresh_high">High</string>
     <string name="refresh_extreme">Smooth</string>
